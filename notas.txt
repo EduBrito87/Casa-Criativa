@@ -1,5 +1,0 @@
-nodemon monitora o servirdor
-npm i nodemon
-
-coloca variaveis no html {{}} no html
-npm i nunjucks
